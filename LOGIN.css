@@ -1,0 +1,100 @@
+.first
+{
+    text-align: center;
+    padding-top: 200px;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 60%;
+    
+}
+p1
+{
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:750;
+}
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.538);
+}
+.second
+{
+    background-color: #38B792;
+    height: 560px;
+    width: 40%;
+    text-align: center;
+    padding-top: 250px;
+}
+.main
+{
+    
+    display:flex;
+    flex-wrap: wrap;
+}
+body
+{
+    size: 780px;
+    margin: 0;
+}
+img{
+    padding: 10px;
+}
+input
+{
+    width: 400px;
+    border-color: white;
+    padding-left: 20px;
+    border-radius: 17px;
+    background-color: #EDF5F3;
+    height: 39px;
+    border: 0;
+}
+button
+{
+    background-color: #28B498;
+    width: 160px;
+    color: white;
+    padding : 15px;
+    border-radius: 100px;
+    border-color: white;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p2
+{
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2PX 2PX BLACK;
+
+}
+p3
+{
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2PX 2PX BLACK;
+    
+}
+button2
+{
+    background-color: white;
+    width: 160px;
+    color: black;
+    padding : 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 100px;
+    border-color: white;
+    border: 0;
+    font-size: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    box-shadow: 3px 4px 2px 2px rgba(0, 0, 0, 0.353);
+}
+.sign
+{
+    padding-top: 40px;
+
+}
